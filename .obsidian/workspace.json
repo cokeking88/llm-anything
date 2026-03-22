@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1931c06588a0f53",
+        "id": "835a89ac47c86c51",
         "type": "tabs",
         "children": [
           {
-            "id": "6f652cd02959d9ca",
+            "id": "c02fac56d9bbcde9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -191,10 +191,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f652cd02959d9ca",
+  "active": "c02fac56d9bbcde9",
   "lastOpenFiles": [
-    "README.md",
-    "LLM学习路线总览.md",
-    "07_前沿技术.md"
+    "07_前沿技术/README.md",
+    "05_Agent开发/README.md",
+    "07_前沿技术/01_长上下文技术.md",
+    "05_Agent开发/01_Agent基础.md",
+    "07_前沿技术.md",
+    "07_前沿技术",
+    "06_多模态LLM/01_多模态基础.md",
+    "06_多模态LLM/README.md",
+    "06_多模态LLM",
+    "05_Agent开发",
+    "04_RAG系统/01_RAG基础.md",
+    "04_RAG系统/README.md",
+    "04_RAG系统",
+    "03_模型微调/04_训练流程.md",
+    "03_模型微调/03_QLoRA技术.md",
+    "03_模型微调/02_LoRA技术.md",
+    "03_模型微调/01_微调基础.md",
+    "03_模型微调/README.md",
+    "03_模型微调",
+    "02_Prompt工程/09_学习资源.md",
+    "02_Prompt工程/08_常见问题.md",
+    "02_Prompt工程/07_评估与优化.md",
+    "02_Prompt工程/06_实战案例.md",
+    "02_Prompt工程/05_系统提示.md",
+    "02_Prompt工程/04_模板设计.md",
+    "02_Prompt工程/03_高级技巧.md",
+    "02_Prompt工程/02_基础技巧.md",
+    "02_Prompt工程/01_Prompt工程基础.md",
+    "02_Prompt工程/README.md",
+    "02_Prompt工程",
+    "01_LLM基础原理/08_学习资源.md",
+    "01_LLM基础原理/07_常见问题.md",
+    "01_LLM基础原理"
   ]
 }
